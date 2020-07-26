@@ -1,3 +1,6 @@
+body{
+  text-align:center;
+}
 .App {
   text-align: center;
 }
@@ -28,6 +31,22 @@
   color: #61dafb;
 }
 
+  .mid{
+    padding-top: 10%;
+  }
+  .head{
+   border: solid black 1px;
+   border-radius: 10px;
+   margin-bottom: 10px;
+  }
+  .txt{
+    font-style: Bold;
+    background-color: #dee0e2;
+  }
+  .pg{
+    margin-left:100px;
+  }
+ 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
